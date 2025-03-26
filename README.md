@@ -1,5 +1,5 @@
 # KaiburrAssignment
-
+TASK 1 - Backend
 As the assignment specified, the project is functions as a backend service, which add tasks, fetches all tasks and by id, and also deletes tasks by id. Here is a few screenshots of the same.
 
 Please find the pictures below.
@@ -22,3 +22,15 @@ delete by id:
 
 
 
+Task 3 - Frontend
+
+the home page has 3 buttons - Add task, Fetch Task and Delete task. Clicking on any on the button, the web page will  direct to corresponding pages. It will ask for the required information from the user, Once the user submits it, the required function lik adding task, fetching tasks or deleting task is performed. here are a few screenshots
+
+<img width="1470" alt="Screenshot 2025-03-26 at 10 43 53 PM" src="https://github.com/user-attachments/assets/973eb634-6ee0-41a1-9f2e-f42bd296b590" />
+
+<img width="1470" alt="Screenshot 2025-03-26 at 10 44 06 PM" src="https://github.com/user-attachments/assets/11901e7b-c614-4eca-9046-78659586bd5c" />
+
+<img width="1470" alt="Screenshot 2025-03-26 at 10 44 21 PM" src="https://github.com/user-attachments/assets/6bc5f1fc-5c3b-4ed6-bd4b-7509879dbc7a" />
+
+
+<img width="1470" alt="Screenshot 2025-03-26 at 10 44 28 PM" src="https://github.com/user-attachments/assets/4c3faaa3-71cf-4a8f-8cb5-71e2592f5113" />
